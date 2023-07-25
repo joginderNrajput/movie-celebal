@@ -111,4 +111,4 @@ Happy movie streaming with CelebalFlicker! 🍿🎬
 
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image19.png "reviews Section")
 
-!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image21.png "Fully Responsive")
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image21_1.png "Fully Responsive")
