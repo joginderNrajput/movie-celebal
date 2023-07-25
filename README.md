@@ -1,12 +1,82 @@
-# MoonFlix
+# Celebal Flicker
 
-    Fullstack Responsive Movie Website 2022
+# CelebalFlicker - Your Movie Streaming Platform
 
-# Video tutorial
+![CelebalFlicker](https://www.linkpicture.com/q/logo_celebal_flick.png) 
 
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
+CelebalFlicker is a movie streaming platform developed by Celebal Technologies. It brings you a vast library of movies and TV shows, offering an unparalleled entertainment experience right at your fingertips. With an intuitive user interface and a wide selection of content, CelebalFlicker is designed to cater to movie enthusiasts of all ages.
 
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+## Features
+
+- **Extensive Movie Collection:** Access a diverse range of movies from various genres, including action, drama, comedy, sci-fi, romance, and more.
+
+- **Popular TV Shows:** Enjoy binge-watching popular TV shows from different networks and platforms.
+
+- **User-friendly Interface:** CelebalFlicker boasts a user-friendly interface built with React.js and Material-UI that makes navigation and content discovery a breeze.
+
+- **TDMI API Integration:** Fetch detailed movie information using the TDMI API, providing users with comprehensive movie data.
+
+- **React Redux State Management:** Utilize React Redux for efficient state management, ensuring seamless data flow and enhanced user experience.
+
+- **Personalized Recommendations:** Discover new movies and shows tailored to your preferences through our advanced recommendation system.
+
+- **Watchlist and History:** Save your favorite movies and TV shows to your watchlist and easily access your viewing history.
+
+- **High-Quality Streaming:** Experience smooth and high-quality streaming of movies and TV shows.
+
+- **Responsive Design:** Enjoy CelebalFlicker on various devices, including desktops, tablets, and mobile phones.
+
+- **Secure and Private:** We prioritize the security and privacy of our users, ensuring a safe movie-watching environment.
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/your_username/celebalflicker.git`
+
+2. Install the required dependencies: `npm install`
+
+3. Set up your MongoDB URL in the `.env` file: `MONGODB_URL=mongodb+srv://your_username:your_password@cluster0.rebwf4y.mongodb.net/`
+
+4. Run the application: `npm start`
+
+5. Open your browser and go to `http://localhost:3000` to access CelebalFlicker.
+
+## Technologies Used
+
+### Frontend
+
+- React.js
+- Material-UI (https://material-ui.com/)
+- React Redux
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+
+### API
+
+- TDMI API (https://api.tdmi.dev/)
+
+## Contributing
+
+We welcome contributions from the open-source community! If you find any issues or have suggestions for improvements, feel free to submit a pull request or raise an issue.
+
+## License
+
+CelebalFlicker is licensed under the [MIT License](LICENSE).
+
+## Contact Us
+
+If you have any questions or feedback, please feel free to reach out to us:
+
+- Email: contact@celebalflicker.com
+- Website: www.celebalflicker.com
+
+Happy movie streaming with CelebalFlicker! 🍿🎬
+
+
+
 
 # Resource
 
@@ -25,14 +95,20 @@
 
 # Preview
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
+!["Celebal Movie Website"](https://www.linkpicture.com/q/image11.png "Landing Page")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322676-cbf56b14-8e23-4622-bbd9-76e6cbe619a8.png "Fullstack Responsive Movie Website 2022")
+!["Celebal Movie Website"](https://www.linkpicture.com/q/image12.png "Recomendation page")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322838-09e075c4-7f47-4252-83e8-afdd633e1968.png "Fullstack Responsive Movie Website 2022")
+!["Celebal Movie Website"](https://www.linkpicture.com/q/image15.png "Different page for series")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322933-1b5cf238-0ec7-4adf-89eb-6b4fb3dcb996.png "Fullstack Responsive Movie Website 2022")
+!["Celebal Movie Website"](https://www.linkpicture.com/q/image13.png "Video playing image")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image16.png "Dark and Light Mode")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image17.png "Signin and Signup Functionality")
+
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image18.png "Favorite Section")
+
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image19.png "reviews Section")
+
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image21.png "Fully Responsive")
