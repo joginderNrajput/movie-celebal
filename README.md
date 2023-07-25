@@ -4,9 +4,20 @@
 
 ![CelebalFlicker](https://www.linkpicture.com/q/logo_celebal_flick.png) 
 
-CelebalFlicker is a movie streaming platform developed by Celebal Technologies. It brings you a vast library of movies and TV shows, offering an unparalleled entertainment experience right at your fingertips. With an intuitive user interface and a wide selection of content, CelebalFlicker is designed to cater to movie enthusiasts of all ages.
+CelebalFlicker is a movie streaming platform developed by Joginder Singh for the Celebal Technologies Internship. It brings you a vast library of movies and TV shows, offering an unparalleled entertainment experience right at your fingertips. With an intuitive user interface and a wide selection of content, CelebalFlicker is designed to cater to movie enthusiasts of all ages.
 
 ## Features
+- **Sign In and Sign Up:** Enjoy a personalized experience by creating an account or signing in, which enables you to access your watchlist, viewing history, and personalized recommendations.
+
+- **Video Playing Feature:** Seamlessly play movies and TV shows directly within the platform, enhancing the user experience by eliminating the need for external video players.
+
+- **Reviews Feature:** Engage with the community by reading and submitting reviews for your favorite movies and TV shows, sharing your thoughts and opinions.
+
+- **Favorite Movies Feature:** Mark movies and TV shows as favorites to create a curated list of your most beloved content.
+
+- **Dark Mode and Light Mode:** Customize the appearance of CelebalFlicker with dark mode and light mode options, providing a visually comfortable experience in different lighting conditions.
+
+- **Separate Sections for Movies and TV Shows:** Easily navigate through dedicated sections for movies and TV shows, streamlining content discovery and selection.
 
 - **Extensive Movie Collection:** Access a diverse range of movies from various genres, including action, drama, comedy, sci-fi, romance, and more.
 
