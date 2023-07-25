@@ -58,26 +58,6 @@ CelebalFlicker is a movie streaming platform developed by Celebal Technologies. 
 
 - TDMI API (https://api.tdmi.dev/)
 
-## Contributing
-
-We welcome contributions from the open-source community! If you find any issues or have suggestions for improvements, feel free to submit a pull request or raise an issue.
-
-## License
-
-CelebalFlicker is licensed under the [MIT License](LICENSE).
-
-## Contact Us
-
-If you have any questions or feedback, please feel free to reach out to us:
-
-- Email: contact@celebalflicker.com
-- Website: www.celebalflicker.com
-
-Happy movie streaming with CelebalFlicker! 🍿🎬
-
-
-
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
@@ -95,20 +75,29 @@ Happy movie streaming with CelebalFlicker! 🍿🎬
 
 # Preview
 
+## Landing Page
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image11.png "Landing Page")
 
+## Recomendation Page
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image12.png "Recomendation page")
 
+## Different Page for series
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image15.png "Different page for series")
 
+##Video Playing image
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image13.png "Video playing image")
 
+## Dark Mode and Light Mode
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image16.png "Dark and Light Mode")
 
+## Signin and Signup Functionality
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image17.png "Signin and Signup Functionality")
 
+## Favorite Section
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image18.png "Favorite Section")
 
+## Reviews Section
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image19.png "reviews Section")
 
+## Responsive
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image21_1.png "Fully Responsive")
