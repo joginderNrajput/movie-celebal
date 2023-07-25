@@ -3,6 +3,8 @@
 
 ![CelebalFlicker](https://www.linkpicture.com/q/logo_celebal_flick.png) 
 
+## Frontend :- https://movie-project-celebal.vercel.app/
+## Backend :- https://celebal-movie-website-backend.onrender.com/
 CelebalFlicker is a movie streaming platform developed by Joginder Singh for the Celebal Technologies Internship. It brings you a vast library of movies and TV shows, offering an unparalleled entertainment experience right at your fingertips. With an intuitive user interface and a wide selection of content, CelebalFlicker is designed to cater to movie enthusiasts of all ages.
 
 ## Features
