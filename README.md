@@ -42,7 +42,7 @@ CelebalFlicker is a movie streaming platform developed by Joginder Singh for the
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your_username/celebalflicker.git`
+1. Clone the repository: `git@github.com:joginderNrajput/movie-celebal.git`
 
 2. Install the required dependencies: `npm install`
 
