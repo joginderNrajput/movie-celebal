@@ -1,12 +1,22 @@
 # Celebal Flicker
 
-# CelebalFlicker - Your Movie Streaming Platform
 
 ![CelebalFlicker](https://www.linkpicture.com/q/logo_celebal_flick.png) 
 
-CelebalFlicker is a movie streaming platform developed by Celebal Technologies. It brings you a vast library of movies and TV shows, offering an unparalleled entertainment experience right at your fingertips. With an intuitive user interface and a wide selection of content, CelebalFlicker is designed to cater to movie enthusiasts of all ages.
+CelebalFlicker is a movie streaming platform developed by Joginder Singh for the Celebal Technologies Internship. It brings you a vast library of movies and TV shows, offering an unparalleled entertainment experience right at your fingertips. With an intuitive user interface and a wide selection of content, CelebalFlicker is designed to cater to movie enthusiasts of all ages.
 
 ## Features
+- **Sign In and Sign Up:** Enjoy a personalized experience by creating an account or signing in, which enables you to access your watchlist, viewing history, and personalized recommendations.
+
+- **Video Playing Feature:** Seamlessly play movies and TV shows directly within the platform, enhancing the user experience by eliminating the need for external video players.
+
+- **Reviews Feature:** Engage with the community by reading and submitting reviews for your favorite movies and TV shows, sharing your thoughts and opinions.
+
+- **Favorite Movies Feature:** Mark movies and TV shows as favorites to create a curated list of your most beloved content.
+
+- **Dark Mode and Light Mode:** Customize the appearance of CelebalFlicker with dark mode and light mode options, providing a visually comfortable experience in different lighting conditions.
+
+- **Separate Sections for Movies and TV Shows:** Easily navigate through dedicated sections for movies and TV shows, streamlining content discovery and selection.
 
 - **Extensive Movie Collection:** Access a diverse range of movies from various genres, including action, drama, comedy, sci-fi, romance, and more.
 
@@ -58,26 +68,6 @@ CelebalFlicker is a movie streaming platform developed by Celebal Technologies. 
 
 - TDMI API (https://api.tdmi.dev/)
 
-## Contributing
-
-We welcome contributions from the open-source community! If you find any issues or have suggestions for improvements, feel free to submit a pull request or raise an issue.
-
-## License
-
-CelebalFlicker is licensed under the [MIT License](LICENSE).
-
-## Contact Us
-
-If you have any questions or feedback, please feel free to reach out to us:
-
-- Email: contact@celebalflicker.com
-- Website: www.celebalflicker.com
-
-Happy movie streaming with CelebalFlicker! 🍿🎬
-
-
-
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
@@ -95,20 +85,29 @@ Happy movie streaming with CelebalFlicker! 🍿🎬
 
 # Preview
 
+## Landing Page
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image11.png "Landing Page")
 
+## Recomendation Page
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image12.png "Recomendation page")
 
+## Different Page for series
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image15.png "Different page for series")
 
+##Video Playing image
 !["Celebal Movie Website"](https://www.linkpicture.com/q/image13.png "Video playing image")
 
+## Dark Mode and Light Mode
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image16.png "Dark and Light Mode")
 
+## Signin and Signup Functionality
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image17.png "Signin and Signup Functionality")
 
+## Favorite Section
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image18.png "Favorite Section")
 
+## Reviews Section
 !["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image19.png "reviews Section")
 
-!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image21.png "Fully Responsive")
+## Responsive
+!["Fullstack Responsive Movie Website 2022"](https://www.linkpicture.com/q/image21_1.png "Fully Responsive")
