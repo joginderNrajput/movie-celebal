@@ -18,7 +18,7 @@ CelebalFlicker is a movie streaming platform developed by Joginder Singh for the
 
 - **Dark Mode and Light Mode:** Customize the appearance of CelebalFlicker with dark mode and light mode options, providing a visually comfortable experience in different lighting conditions.
 
-- **Separate Sections for Movies and TV Shows:** Easily navigate through dedicated sections for movies and TV shows, streamlining content discovery and selection.
+- **Separate Sections for Movies and TV Shows:** Easily navigate through dedicated sections for movies and TV shows, streamlining content discovery and selection..
 
 - **Extensive Movie Collection:** Access a diverse range of movies from various genres, including action, drama, comedy, sci-fi, romance, and more.
 
